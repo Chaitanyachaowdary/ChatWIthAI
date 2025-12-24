@@ -93,7 +93,11 @@ function App() {
           >
             ☰
           </button>
-          ChatWith AI
+          <img
+            src="/public/VFirstLogo.png"
+            alt="Logo"
+            className="logo"
+          />
         </div>
 
         <div className="chat-body">

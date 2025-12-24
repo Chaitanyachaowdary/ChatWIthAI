@@ -5,8 +5,6 @@ This project is a simple ChatGPT-like conversational web application built for t
 
 The goal of this project is to show how a real-world full-stack application can be designed using a clean backend, persistent storage, and a user-friendly frontend.
 
-⚠️ No OpenAI, ChatGPT, or any external AI APIs are used.  
-All responses are generated using custom backend logic, as required.
 
 ---
 
@@ -179,21 +177,21 @@ The submission includes screenshots or a short demo video showing:
 
 ## Assessment Requirements Status
 
-| Requirement | Status |
-|------------|--------|
-| Chat Interface | ✅ Completed |
-| Custom Backend Logic | ✅ Completed |
-| Conversation Persistence | ✅ Completed |
-| REST API Design | ✅ Completed |
-| Clean Architecture | ✅ Completed |
-| Scalability Thinking | ✅ Completed |
-| Documentation | ✅ Completed |
-| Authentication (Bonus) | ❌ Not implemented |
+ Requirement
+
+ Chat Interface
+ Custom Backend Logic
+ Conversation Persistence
+ REST API Design
+ Clean Architecture
+ Scalability Thinking
+ Documentation
+ Authentication
 
 ---
 
 
-Demo link:  https://drive.google.com/file/d/1j_eyGNBqSlU-3AT4GWDSE2qlFc8ZNuvz/view?usp=drive_link
+Demo link:  https://drive.google.com/file/d/14ihb6-vbyO-imzH3KekO_e4xChCEclSG/view?usp=sharing
 
 ## Final Notes
 This project focuses on writing clean, understandable code and following the assessment requirements carefully.

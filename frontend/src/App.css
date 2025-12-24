@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background-color: #343541;
+  background-color: #000000;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -37,7 +37,7 @@ body {
 .session {
   padding: 10px;
   margin-bottom: 6px;
-  background-color: #343541;
+  background-color: #000000;
   border-radius: 6px;
   cursor: pointer;
 }
@@ -57,7 +57,7 @@ body {
 /* HEADER */
 .chat-header {
   padding: 15px;
-  background-color: #202123;
+  background-color: #f6f7f9;
   color: white;
   font-weight: bold;
   display: flex;
@@ -133,6 +133,8 @@ body {
 .message.user .bubble {
   background-color: #19c37d;
   border-bottom-right-radius: 0;
+  color: #000;
+  font-weight: 500;
 }
 
 .message.bot .bubble {
@@ -144,7 +146,7 @@ body {
 .chat-input {
   display: flex;
   padding: 10px;
-  background-color: #202123;
+  background-color: #000000;
 }
 
 .chat-input textarea {
@@ -178,7 +180,7 @@ body {
 .typing-spinner span {
   width: 8px;
   height: 8px;
-  background-color: #bbb;
+  background-color: #070707;
   border-radius: 50%;
   animation: bounce 1.4s infinite ease-in-out both;
 }
@@ -220,10 +222,25 @@ body {
   }
 }
 
+
 .timestamp {
-  font-size: 11px;
-  color: #bdbdbd;
-  text-align: right;
-  margin-top: 4px;
+  font-size: 12px;
+  margin-top: 3px;
+  opacity: 0.6;
+  line-height: 1;
 }
+
+.message.user .timestamp {
+  color: #000000;
+  text-align: right;
+  margin-right: 6px;
+}
+
+.message.bot .timestamp {
+  color: #ffffff;
+  text-align: right;
+  margin-left: 6px;
+}
+
+
 
