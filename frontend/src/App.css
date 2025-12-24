@@ -2,25 +2,6 @@
   box-sizing: border-box;
 }
 
-.auth-page {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background: #343541;
-  color: white;
-}
-
-.auth-page input {
-  width: 260px;
-  padding: 10px;
-  margin: 6px 0;
-  border-radius: 6px;
-  border: none;
-}
-
-
 body {
   margin: 0;
   background-color: #343541;

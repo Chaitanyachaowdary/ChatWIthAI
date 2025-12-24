@@ -192,6 +192,9 @@ The submission includes screenshots or a short demo video showing:
 
 ---
 
+
+Demo link:  https://drive.google.com/file/d/1j_eyGNBqSlU-3AT4GWDSE2qlFc8ZNuvz/view?usp=drive_link
+
 ## Final Notes
 This project focuses on writing clean, understandable code and following the assessment requirements carefully.
 The application is easy to extend and can be improved further if needed.
